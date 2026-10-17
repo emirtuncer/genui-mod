@@ -1,0 +1,6 @@
+{
+  "name": "genui-mod",
+  "owner": { "name": "Emir Tuncer" },
+  "description": "genui: generative UI, live timers, forms and data-bound templates for Claude Code.",
+  "plugins": [{ "name": "genui", "source": "./" }]
+}

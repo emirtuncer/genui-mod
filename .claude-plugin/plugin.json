@@ -1,0 +1,11 @@
+{
+  "name": "genui",
+  "version": "0.1.0",
+  "author": { "name": "Emir Tuncer" },
+  "description": "Generative UI: Claude draws cards, layouts, live timers and forms in a side pane and gets your answers back; data-bound templates show live test and git status.",
+  "homepage": "https://github.com/emirtuncer/genui-mod",
+  "repository": "https://github.com/emirtuncer/genui-mod",
+  "license": "MIT",
+  "keywords": ["generative-ui", "ui", "forms", "dashboard", "templates"],
+  "types": "./types/index.d.ts"
+}

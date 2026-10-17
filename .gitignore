@@ -1,0 +1,8 @@
+linkedin-post.txt
+docs/superpowers/
+assets/*-mockup.html
+assets/mockup.css
+.claude-plugin/types/
+node_modules/
+.DS_Store
+*.log
